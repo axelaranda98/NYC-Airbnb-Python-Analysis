@@ -14,6 +14,10 @@ Analysis of 48,895 NYC Airbnb listings to uncover pricing trends, popular areas,
 - How does room type impact pricing?
 - What factors influence listing popularity?
 - Which areas have the highest Airbnb concentration?
+  
+### Average Price by Neighborhood and Room Type
+![Average Price by Neighborhood and Room Type](https://github.com/axelaranda98/NYC-Airbnb-Python-Analysis/blob/main/average_price_by_neighbourhood-2.png?raw=true)
+
 
 ## Tools & Methodology
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Folium)
