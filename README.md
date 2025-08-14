@@ -38,5 +38,6 @@ Analysis of 48,895 NYC Airbnb listings to uncover pricing trends, popular areas,
 - Next Steps: Temporal analysis, competitive benchmarking, feature engineering
 
 
-![Airbnb Listing Heatmap in New York](https://github.com/axelaranda98/NYC-Airbnb-Python-Analysis/blob/main/Captura%20de%20pantalla%202025-08-13%20a%20las%2016.23.10.png?raw=true)
+![Airbnb Listing Heatmap in New York](images/heatmap.png)
+
 
