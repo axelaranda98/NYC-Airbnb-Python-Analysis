@@ -16,7 +16,7 @@ Analysis of 48,895 NYC Airbnb listings to uncover pricing trends, popular areas,
 - Which areas have the highest Airbnb concentration?
   
 ### Average Price by Neighborhood and Room Type
-(images/average_price_by_neighbourhood-2.png)
+![Average Price by Neighborhood and Room Type](images/average_price_by_neighbourhood-2.png)
 
 
 ## Tools & Methodology
